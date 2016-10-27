@@ -16,6 +16,6 @@ Node and Express App for meet ups
     
     git clone https://github.com/roecamp0101/meetUpApp
     
-    Open folder angularIconicApp > www
+    Open folder meetUpApp > npm install > npm start
     
     Run > index.html on local server to view app (IE. Adobe Brackets or Sublime Text)
